@@ -1,0 +1,10 @@
+
+
+/work
+/result
+/.nextflow
+
+*.log.*
+
+*.log
+
